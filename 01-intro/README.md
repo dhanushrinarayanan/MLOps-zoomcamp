@@ -4,7 +4,7 @@
 3 Stages: Design--->Training--->Operation--->Deployement
 
 # 2. Environment Preparation
-## 2.1 GitHub Codespaces 
+### 2.1 GitHub Codespaces 
 1. Go to the repository on GitHub.com.
 2. Click the green "Code" button.
 3. Click "Codespaces" tab.
@@ -14,7 +14,7 @@
 7. Click on the green bottom-left button in VS Code → "Codespaces" → select a codespace.
 
 # Step 1: Download and install the Anaconda distribution of Python
-## Install Anaconda
+### Install Anaconda
 
 Run the following commands in your terminal to download and install Anaconda 2022.05:
 
@@ -24,4 +24,6 @@ bash Anaconda3-2022.05-Linux-x86_64.sh
 ```
 
 # Step 2: Open Jupyter notebook
+```bash
 jupyter notebook
+```
